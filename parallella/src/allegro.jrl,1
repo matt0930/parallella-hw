@@ -1,0 +1,76 @@
+\t (00:00:05) allegro 17.4 S007 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Fri Jun 26 15:52:08 2020
+\t (00:00:05)         Host=NUCI7-2 User=mmatusek Pid=12312 CPUs=8
+\t (00:00:05) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\mmatusek\Documents\GitHub\parallella-hw\parallella\src\parallella_layout.brd
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:11) fillin yes 
+\w (00:00:11)  Design outline not created.
+\i (00:00:11) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged parallella_layout
+\w (00:00:11) WARNING(SPMHDB-212): Design feature(s) are disabled because selected product and option(s) do not
+match design capability required: Maximum Via Count, Maximum Exposed Length. . Either select required product and
+option(s) in Product Choices or click Update to Tier in File Properties to
+suppress the message. See Allegro PCB Design Solutions datasheet on
+www.cadence.com for mapping of products and options to design features.
+\i (00:00:13) fillin confirm
+\d (00:00:13) Design opened: C:/Users/mmatusek/Documents/GitHub/parallella-hw/parallella/src/parallella_layout.brd
+\i (00:00:14) trapsize 2153
+\i (00:00:14) trapsize 2222
+\i (00:00:14) trapsize 2153
+\i (00:00:14) trapsize 2153
+\i (00:00:15) generaledit 
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 2526.33 -1953.65
+\i (00:00:17) trapsize 4306
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 2526.34 -1953.65
+\i (00:00:17) trapsize 8612
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 877.08 836.68
+\i (00:00:18) trapsize 4306
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 877.08 845.29
+\i (00:00:18) trapsize 2153
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 2913.84 810.85
+\i (00:00:19) trapsize 1077
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 2913.85 810.85
+\i (00:00:19) trapsize 538
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 2932.15 772.10
+\i (00:00:20) trapsize 1077
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 2932.16 772.10
+\i (00:00:20) trapsize 2153
+\i (00:00:21) roam start
+\i (00:00:21) roam y 16
+\i (00:00:21) roam y 32
+\i (00:00:21) roam y 32
+\i (00:00:21) roam end
+\i (00:00:22) zoom in 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom in 3440.27 447.04
+\i (00:00:22) trapsize 1077
+\i (00:00:22) zoom in 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom in 2449.87 391.06
+\i (00:00:46) trapsize 538
+\i (00:00:46) setwindow form.find
+\i (00:00:46) FORM find all_on  
+\i (00:00:46) setwindow pcb
+\i (00:00:46) pick grid 1957.91 105.79
+\t (00:00:46) last pick:  1958.00 106.00
+\i (00:00:52) exit 
+\e (00:00:52) Do you want to save the changes you made to parallella_layout.brd?
+\i (00:00:54) fillin no 
+\t (00:00:54)     Journal end - Fri Jun 26 15:52:58 2020
