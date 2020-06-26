@@ -1,197 +1,192 @@
-\t (00:01:28) allegro 17.4 S007 Windows SPB 64-bit Edition
-\t (00:01:28)     Journal start - Fri Jun 26 15:54:22 2020
-\t (00:01:28)         Host=NUCI7-2 User=mmatusek Pid=15996 CPUs=8
-\t (00:01:28) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
-\t (00:01:28) 
-\d (00:01:28) Design opened: C:/Users/mmatusek/Documents/GitHub/parallella-hw/parallella/src/parallella_layout.brd
-\i (00:01:28) generaledit 
-\i (00:01:32) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:01:33) zoom out 1 
-\i (00:01:33) setwindow pcb
-\i (00:01:33) zoom out 1888.31 -2083.58
-\i (00:01:33) trapsize 2856
-\i (00:01:33) zoom out 1 
-\i (00:01:33) setwindow pcb
-\i (00:01:33) zoom out 1945.42 -1997.91
-\i (00:01:33) trapsize 5711
-\i (00:01:34) zoom in 1 
-\i (00:01:34) setwindow pcb
-\i (00:01:34) zoom in 3003.62 -1997.90
-\i (00:01:34) trapsize 2856
-\i (00:01:35) zoom out 1 
-\i (00:01:35) setwindow pcb
-\i (00:01:35) zoom out 3100.71 -1889.39
-\i (00:01:35) trapsize 5711
-\i (00:01:35) zoom out 1 
-\i (00:01:35) setwindow pcb
-\i (00:01:35) zoom out 3197.80 -1889.38
-\i (00:01:35) trapsize 11422
-\i (00:01:37) zoom in 1 
-\i (00:01:37) setwindow pcb
-\i (00:01:37) zoom in 8612.00 -904.21
-\i (00:01:37) trapsize 5711
-\i (00:01:41) roam start
-\i (00:01:42) roam end
-\i (00:01:42) prepopup 11867.37 -1441.06
-\i (00:01:43) pick grid 12666.94 -641.49
-\t (00:01:43) last pick:  12667.00 -641.00
-\i (00:01:43) drag_start grid 12210.04 -1623.82
-\i (00:01:44) drag_stop 14677.27 -972.74
-\i (00:01:44) pick grid 12792.58 -2903.12
-\t (00:01:44) last pick:  12793.00 -2903.00
-\t (00:01:45) Pick to complete the window.
-\i (00:01:48) prepopup 6190.46 2145.56
-\i (00:01:49) pick grid 6087.66 2339.74
-\t (00:01:49) last pick:  6088.00 2340.00
-\i (00:01:50) zoom out 1 
-\i (00:01:50) setwindow pcb
-\i (00:01:50) zoom out 6121.92 2282.63
-\i (00:01:50) trapsize 11422
-\i (00:01:50) zoom out 1 
-\i (00:01:50) setwindow pcb
-\i (00:01:50) zoom out 6121.92 5378.09
-\i (00:01:50) trapsize 18189
-\i (00:01:51) zoom in 1 
-\i (00:01:51) setwindow pcb
-\i (00:01:51) zoom in 10182.12 14711.19
-\i (00:01:51) trapsize 9095
-\i (00:01:51) drag_start grid 13765.38 13947.25
-\i (00:01:52) drag_stop 14729.41 16202.71
-\i (00:01:53) prepopup 12855.93 15366.00
-\i (00:01:54) pick grid 13892.71 18549.11
-\t (00:01:54) last pick:  13893.00 18549.00
-\i (00:01:56) slide 
-\t (00:01:56) Pick element to slide.
-\i (00:01:57) drag_start grid 8981.63 16966.65
-\i (00:01:57) drag_stop 13056.01 20531.73
-\t (00:01:57) Pick element to slide.
-\i (00:01:59) pick grid 7963.04 21877.73
-\t (00:01:59) last pick:  7965.00 21880.00
-\t (00:01:59) Pick element to slide.
-\i (00:01:59) prepopup 9836.52 17385.00
-\i (00:02:00) pick grid 5361.99 19404.00
-\t (00:02:00) last pick:  5360.00 19405.00
-\t (00:02:00) Pick element to slide.
-\i (00:02:01) move 
-\t (00:02:01) Select element(s) to move.
-\i (00:02:02) prepopup 13674.44 15966.25
-\i (00:02:02) pick grid 13656.25 18476.35
-\t (00:02:02) last pick:  13655.00 18475.00
-\i (00:02:03) drag_start grid 11600.87 13237.87
-\i (00:02:03) drag_stop 14238.30 17312.24
-\i (00:02:03) pick grid 8799.74 17566.89
-\t (00:02:03) last pick:  8800.00 17565.00
-\i (00:02:04) zoom out 1 
-\i (00:02:04) setwindow pcb
-\i (00:02:04) zoom out 9545.50 16893.89
-\i (00:02:04) trapsize 18189
-\i (00:02:05) zoom out 1 
-\i (00:02:05) setwindow pcb
-\i (00:02:05) zoom out 10218.49 16202.70
-\i (00:02:05) trapsize 18189
-\i (00:02:05) zoom in 1 
-\i (00:02:05) setwindow pcb
-\i (00:02:05) zoom in 6944.44 50.72
-\i (00:02:05) trapsize 9095
-\i (00:02:06) zoom out 1 
-\i (00:02:06) setwindow pcb
-\i (00:02:06) zoom out 5562.06 -2895.93
-\i (00:02:06) trapsize 18189
-\i (00:02:06) zoom in 1 
-\i (00:02:06) setwindow pcb
-\i (00:02:06) zoom in 614.61 -7297.71
-\i (00:02:06) trapsize 9095
-\i (00:02:07) zoom in 1 
-\i (00:02:07) setwindow pcb
-\i (00:02:07) zoom in 432.72 -7461.41
-\i (00:02:07) trapsize 4547
-\i (00:02:08) zoom out 1 
-\i (00:02:08) setwindow pcb
-\i (00:02:08) zoom out 596.43 -2568.52
-\i (00:02:08) trapsize 9095
-\i (00:02:08) zoom in 1 
-\i (00:02:08) setwindow pcb
-\i (00:02:08) zoom in 505.48 2415.31
-\i (00:02:08) trapsize 4547
-\i (00:02:09) zoom in 1 
-\i (00:02:09) setwindow pcb
-\i (00:02:09) zoom in -3.81 1678.65
-\i (00:02:09) trapsize 2274
-\i (00:02:12) QtSignal ColorVisibilityPane CVPGlobalVisRestore clicked
-\i (00:02:18) QtSignal CVPLayerGrid CVPPlanesEtch clicked true
-\i (00:02:19) QtSignal CVPLayerGrid CVPPlanesEtch clicked false
-\i (00:02:20) QtSignal CVPLayerGrid CVPPlanesVia clicked true
-\i (00:02:21) QtSignal CVPLayerGrid CVPPlanesVia clicked false
-\i (00:02:21) QtSignal CVPLayerGrid CVPPlanesPin clicked true
-\i (00:02:22) QtSignal CVPLayerGrid CVPPlanesPin clicked false
-\i (00:02:23) QtSignal CVPLayerGrid CVPPlanesDrc clicked true
-\i (00:02:23) QtSignal CVPLayerGrid CVPPlanesDrc clicked false
-\i (00:02:24) QtSignal CVPLayerGrid CVPAllPlanes clicked true
-\i (00:02:25) QtSignal CVPLayerGrid CVPAllPlanes clicked false
-\i (00:02:27) QtSignal CVPLayerGrid CVPButtonDrcTop clicked
-\i (00:02:29) QtSignal CVPLayerGrid CVPButtonDrcL2_Gnd clicked
-\i (00:02:30) QtSignal CVPLayerGrid CVPButtonDrcL2_Gnd clicked
-\i (00:02:30) QtSignal CVPLayerGrid CVPBoxAllL2_Gnd clicked true
-\i (00:02:31) QtSignal CVPLayerGrid CVPBoxAllL2_Gnd clicked false
-\i (00:02:32) QtSignal CVPLayerGrid CVPBoxAllL3_Sig clicked true
-\i (00:02:33) QtSignal CVPLayerGrid CVPBoxAllL4_Gnd clicked true
-\i (00:02:35) QtSignal CVPLayerGrid CVPBoxAllL4_Gnd clicked false
-\i (00:02:36) QtSignal CVPLayerGrid CVPBoxAllL5_Sig clicked true
-\i (00:02:37) QtSignal CVPLayerGrid CVPBoxAllL5_Sig clicked false
-\i (00:02:38) QtSignal CVPLayerGrid CVPBoxAllL6_Pwr clicked true
-\i (00:02:39) QtSignal CVPLayerGrid CVPBoxAllL6_Pwr clicked false
-\i (00:02:39) QtSignal CVPLayerGrid CVPBoxAllL7_Pwr clicked true
-\i (00:02:40) QtSignal CVPLayerGrid CVPBoxAllL7_Pwr clicked false
-\i (00:02:41) QtSignal CVPLayerGrid CVPBoxAllL8_Sig clicked true
-\i (00:02:41) QtSignal CVPLayerGrid CVPBoxAllL8_Sig clicked false
-\i (00:02:42) QtSignal CVPLayerGrid CVPBoxAllL9_Gnd clicked true
-\i (00:02:43) QtSignal CVPLayerGrid CVPBoxAllL9_Gnd clicked false
-\i (00:02:43) QtSignal CVPLayerGrid CVPBoxAllL10_Sig clicked true
-\i (00:02:46) QtSignal CVPLayerGrid CVPBoxAllAll clicked true
-\i (00:02:47) QtSignal CVPLayerGrid CVPBoxAllAll clicked false
-\i (00:02:48) QtSignal CVPLayerGrid CVPBoxAllAll clicked true
-\i (00:02:49) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
-\i (00:02:49) QtSignal CVPLayerGrid CVPBoxAllL11_Gnd clicked true
-\i (00:02:50) QtSignal CVPLayerGrid CVPBoxAllL9_Gnd clicked true
-\i (00:02:50) QtSignal CVPLayerGrid CVPBoxAllL8_Sig clicked true
-\i (00:02:51) QtSignal CVPLayerGrid CVPBoxAllL7_Pwr clicked true
-\i (00:02:52) QtSignal CVPLayerGrid CVPBoxAllL6_Pwr clicked true
-\i (00:02:52) QtSignal CVPLayerGrid CVPBoxAllL5_Sig clicked true
-\i (00:02:52) QtSignal CVPLayerGrid CVPBoxAllL4_Gnd clicked true
-\i (00:02:53) QtSignal CVPLayerGrid CVPBoxAllL2_Gnd clicked true
-\i (00:02:57) QtSignal CVPLayerGrid CVPButtonDrcThrough_All clicked
-\i (00:02:58) QtSignal CVPLayerGrid CVPButtonDrcThrough_All clicked
-\i (00:03:00) QtSignal CVPLayerGrid CVPBoxAllAll clicked false
-\i (00:03:00) QtSignal CVPLayerGrid CVPBoxAllAll clicked true
-\i (00:03:03) setwindow form.find
-\i (00:03:03) FORM find all_on  
-\i (00:03:06) setwindow pcb
-\i (00:03:06) zoom in 1 
-\i (00:03:06) setwindow pcb
-\i (00:03:06) zoom in 4229.72 1301.23
-\i (00:03:06) trapsize 1137
-\i (00:03:06) zoom out 1 
-\i (00:03:06) setwindow pcb
-\i (00:03:06) zoom out 4209.27 1192.10
-\i (00:03:06) trapsize 2274
-\i (00:03:07) zoom out 1 
-\i (00:03:07) setwindow pcb
-\i (00:03:07) zoom out 4209.26 1237.57
-\i (00:03:07) trapsize 4547
-\i (00:03:07) zoom in 1 
-\i (00:03:07) setwindow pcb
-\i (00:03:07) zoom in 1126.20 -399.46
-\i (00:03:07) trapsize 2274
-\i (00:03:11) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
-\i (00:03:15) QtSignal ColorVisibilityPane CVPGlobalVisRestore clicked
-\i (00:03:38) pick grid -706.36 2910.97
-\t (00:03:38) last pick:  -705.00 2910.00
-\i (00:04:07) pick grid -951.92 3224.74
-\t (00:04:07) last pick:  -950.00 3225.00
-\i (00:04:13) save_as 
-\i (00:04:16) fillin "parallella_layout.brd"
-\i (00:04:16) generaledit 
-\i (00:04:17) pick grid -533.56 928.35
-\t (00:04:17) last pick:  -535.00 930.00
-\i (00:04:25) exit 
-\t (00:04:25)     Journal end - Fri Jun 26 15:57:20 2020
+\t (00:00:02) allegro 17.4 S007 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Jun 26 16:30:10 2020
+\t (00:00:02)         Host=NUCI7-2 User=mmatusek Pid=3756 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\mmatusek\Documents\GitHub\parallella-hw\parallella\src\parallella_layout.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged parallella_layout
+\w (00:00:05) WARNING(SPMHDB-212): Design feature(s) are disabled because selected product and option(s) do not
+match design capability required: Maximum Via Count, Maximum Exposed Length. . Either select required product and
+option(s) in Product Choices or click Update to Tier in File Properties to
+suppress the message. See Allegro PCB Design Solutions datasheet on
+www.cadence.com for mapping of products and options to design features.
+\i (00:00:06) fillin confirm
+\d (00:00:06) Design opened: C:/Users/mmatusek/Documents/GitHub/parallella-hw/parallella/src/parallella_layout.brd
+\i (00:00:07) trapsize 2274
+\i (00:00:07) trapsize 2321
+\i (00:00:07) trapsize 2274
+\i (00:00:07) trapsize 2403
+\i (00:00:07) trapsize 2403
+\i (00:00:08) generaledit 
+\i (00:00:11) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:00:22) dxf out 
+\i (00:00:25) setwindow form.dxf_out
+\i (00:00:25) FORM dxf_out browsedxf  
+\i (00:00:42) fillin "parallella_dxf.dxf"
+\i (00:00:53) FORM dxf_out execute  
+\i (00:01:02) FORM dxf_out liblayer  
+\i (00:01:06) fillin "ecad_mcad"
+\i (00:01:09) FORM dxf_out execute  
+\t (00:01:09) Starting DxfFile...
+\t (00:01:11) Translation complete. See logfile (using File->ViewLog).
+\i (00:01:16) FORM dxf_out close  
+\i (00:01:16) setwindow pcb
+\i (00:01:16) generaledit 
+\i (00:01:22) variant bom 
+\e (00:01:22) ERROR(SPMHSK-5): Variants file 'variants.lst' not found.
+   (00:01:22) Loading variants.cxt 
+\i (00:01:22) generaledit 
+\i (00:01:35) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:01:35) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged parallella_layout
+\i (00:02:08) netout 
+\i (00:02:13) fillin "netlist.txt"
+\t (00:02:13) Starting report...
+\t (00:02:14) Exporting net information.
+\t (00:02:14) There are 8 different component properties in this database.
+\t (00:02:14) There are 688 different net properties in this database.
+\t (00:02:14) Hierarchical net constraints have been flattened onto individual nets for export.
+\t (00:02:14) There are 3 different pin properties in this database.
+\t (00:02:14) C:/Users/mmatusek/Documents/GitHub/parallella-hw/parallella/src/netlist.txt has been created.
+   (00:02:14) Loading cmds.cxt 
+\i (00:02:14) generaledit 
+\i (00:02:23) param out 
+\i (00:02:26) setwindow form.parm_out
+\i (00:02:26) FORM parm_out selectall  
+\i (00:02:27) FORM parm_out export  
+\w (00:02:27) No output file name entered.
+\i (00:02:30) FORM parm_out browse  
+\i (00:02:48) fillin "board info.prm"
+\i (00:02:49) FORM parm_out export  
+\t (00:02:49) Starting Exporting Parameters...
+\t (00:02:51) Parameter file write completed.
+\i (00:02:52) FORM parm_out cancel  
+\i (00:02:53) setwindow pcb
+\i (00:02:53) generaledit 
+\i (00:03:10) strip_design 
+\t (00:03:10) Please save the design to avoid losing unsaved data.
+\i (00:03:12) fillin confirm
+\i (00:03:14) setwindow form.stripDesign
+\i (00:03:14) FORM stripDesign cancel  
+\i (00:03:14) setwindow pcb
+\i (00:03:14) generaledit 
+\i (00:03:15) pick grid -948.15 2576.95
+\t (00:03:15) last pick:  -950.00 2575.00
+\i (00:03:16) pick grid -1087.50 3437.09
+\t (00:03:16) last pick:  -1090.00 3435.00
+\i (00:03:16) pick grid dbl -1087.50 3437.09
+\t (00:03:16) last pick:  -1090.00 3435.00
+\i (00:03:16) drag_start grid -1568.03 3379.43
+\i (00:03:16) drag_stop 637.58 1961.87
+\i (00:03:17) pick grid -1125.95 1462.13
+\t (00:03:17) last pick:  -1125.00 1460.00
+\i (00:03:18) pick grid -1005.82 3187.21
+\t (00:03:18) last pick:  -1005.00 3185.00
+\i (00:03:19) QtSignal ColorVisibilityPane CVPLayerSelectBox clicked true
+\i (00:03:22) QtSignal CVPLayerGrid CVPBoxAllL2_Gnd clicked true
+\i (00:03:24) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:03:24) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:03:25) QtSignal CVPLayerGrid CVPBoxAllL3_Sig clicked true
+\i (00:03:25) QtSignal CVPLayerGrid CVPBoxAllL4_Gnd clicked true
+\i (00:03:28) QtSignal CVPLayerGrid CVPBoxAllL2_Gnd clicked false
+\i (00:03:29) QtSignal CVPLayerGrid CVPBoxAllL4_Gnd clicked false
+\i (00:03:30) QtSignal CVPLayerGrid CVPBoxAllL5_Sig clicked true
+\i (00:03:31) QtSignal CVPLayerGrid CVPBoxAllL6_Pwr clicked true
+\i (00:03:32) QtSignal CVPLayerGrid CVPBoxAllL7_Pwr clicked true
+\i (00:03:32) QtSignal CVPLayerGrid CVPBoxAllL8_Sig clicked true
+\i (00:03:34) QtSignal CVPLayerGrid CVPBoxAllL10_Sig clicked true
+\i (00:03:38) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:03:38) QtSignal CVPLayerGrid CVPBoxAllAll clicked true
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out 1646.69 1044.07
+\i (00:03:39) trapsize 4805
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out 1646.69 1092.12
+\i (00:03:39) trapsize 9611
+\i (00:03:39) zoom out 1 
+\i (00:03:39) setwindow pcb
+\i (00:03:39) zoom out 8317.04 1975.46
+\i (00:03:39) trapsize 18189
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 22368.86 13110.54
+\i (00:03:40) trapsize 9095
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 22368.86 13110.54
+\i (00:03:40) trapsize 4547
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 22368.86 13110.54
+\i (00:03:40) trapsize 2274
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 22368.86 13110.54
+\i (00:03:40) trapsize 1137
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 22368.87 13110.55
+\i (00:03:40) trapsize 568
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 22368.87 13110.55
+\i (00:03:40) trapsize 284
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 22159.69 12967.88
+\i (00:03:40) trapsize 142
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 22159.98 12967.88
+\i (00:03:40) trapsize 71
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 22159.98 12967.89
+\i (00:03:40) trapsize 36
+\i (00:03:43) drag_start grid 22163.89 12992.69
+\i (00:03:43) drag_stop 22177.61 13010.80
+\i (00:03:44) pick grid 22173.91 13014.57
+\t (00:03:44) last pick:  22175.00 13015.00
+\i (00:03:52) zoom fit 
+\i (00:03:52) trapsize 951
+\i (00:03:54) zoom out 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom out 1317.87 1192.01
+\i (00:03:54) trapsize 1903
+\i (00:03:55) zoom in 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom in 1489.09 1465.97
+\i (00:03:55) trapsize 951
+\i (00:04:00) slide 
+\t (00:04:00) Pick element to slide.
+\i (00:04:02) drag_start grid 1062.93 2240.29
+\i (00:04:02) drag_stop 1506.22 2255.51
+\t (00:04:02) Pick element to slide.
+\i (00:04:13) zoom out 1 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) zoom out 1692.66 2223.16
+\i (00:04:13) trapsize 1903
+\i (00:04:14) zoom in 1 
+\i (00:04:14) setwindow pcb
+\i (00:04:14) zoom in 1692.66 2207.96
+\i (00:04:14) trapsize 951
+\i (00:04:17) zoom out 1 
+\i (00:04:17) setwindow pcb
+\i (00:04:17) zoom out 1692.66 2207.95
+\i (00:04:17) trapsize 1903
+\i (00:04:20) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:04:26) open 
+\e (00:04:26) Do you want to save the changes you made to parallella_layout.brd?
+\i (00:04:27) fillin yes 
+\i (00:04:27) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged parallella_layout
+\i (00:04:53) fillin "menu_cancel"
+\i (00:04:53) generaledit 
+\i (00:04:55) pick grid -662.65 -645.80
+\t (00:04:55) last pick:  -665.00 -645.00
+\i (00:04:57) pick grid -1374.19 2535.20
+\t (00:04:57) last pick:  -1375.00 2535.00
+\i (00:04:57) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:05:14) exit 
+\t (00:05:14)     Journal end - Fri Jun 26 16:35:22 2020
